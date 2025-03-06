@@ -13,7 +13,7 @@ This repository is a demo project showcasing UI testing using [Playwright](https
 1. Clone this repository:
 
 ```shell
-    git clone https://github.com/AlexKalyna/toolshop-ui-e2e-playwright-demo.git
+ git clone https://github.com/0xmuchen/2e2-playwright-demo.git
 ```
 
 2. Install the dependencies:
